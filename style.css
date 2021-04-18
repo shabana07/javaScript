@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    color: #fff;
+    font-size: large;
+}
+h1{
+    color: yellow;
+    font-size: 60px;
+    text-shadow: 3px 3px 5px green;
+    text-align: center;
+    margin-top: 250px;
+    margin-right: 150px;
+}
+h2{
+    margin-top: -160px;
+}
